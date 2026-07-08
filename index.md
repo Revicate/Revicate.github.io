@@ -6,6 +6,6 @@ layout: single
 author_profile: true
 ---
 
-Hi! I am a third year mathematics student at University of Toronto. My interests are generally in areas where abstract nonsense are applied as main tools to study interesting mathematical questions, in particular, (derived/spectral) algebraic geometry and (chromatic / motivic) homotopy theory, and also their relations to algebraic K-theory, number theory and representation theory. 
+Hi! I am a third year mathematics student at University of Toronto. My interests are generally in areas where abstract nonsense are applied as main tools to study interesting mathematical questions, in particular, (derived) algebraic geometry and (motivic) homotopy theory, and also their relations to algebraic K-theory, number theory and representation theory. 
 
 Aside from Math, I also like classical music. Pieces that I particularly like listening to are Bach's Goldberg variations, Keyboard Partita No. 2 and French Suite No. 3. 
