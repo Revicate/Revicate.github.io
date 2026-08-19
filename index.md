@@ -6,6 +6,8 @@ layout: single
 author_profile: true
 ---
 
-Hi! I am a third year mathematics student at University of Toronto. My interests are generally in areas where abstract nonsense are applied as main tools to study interesting mathematical questions, in particular, (derived) algebraic geometry and (motivic) homotopy theory, and also their relations to algebraic K-theory, number theory and representation theory. 
+Hi! I will be a final year mathematics student at University of Toronto by September. My interests are generally in areas where abstract nonsense are applied as main tools to study interesting mathematical questions, in particular, derived algebraic geometry and stable / motivic homotopy theory, and also their relations to algebraic K-theory, number theory and representation theory. 
 
-Aside from Math, I also like classical music. Pieces that I particularly like listening to are Bach's Goldberg variations, Keyboard Partita No. 2 and French Suite No. 3. 
+I am currently informally mentored by Prof. Paul Selick. I will also be advised by Prof. Nick Rozenblyum on a thesis project on formal moduli problems. 
+
+Aside from Math, I also like classical music. Pieces that I particularly like listening to are Bach's Goldberg Variations, Keyboard Partita No. 2 and French Suite No. 3. 
