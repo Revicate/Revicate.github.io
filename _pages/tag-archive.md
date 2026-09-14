@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "Notes"
 permalink: /notes/
 ---
 
