@@ -8,6 +8,6 @@ author_profile: true
 
 Hi! I am a fourth year mathematics student at University of Toronto. My interests are generally in areas where abstract nonsense are applied as main tools to study interesting mathematical questions, in particular, derived algebraic geometry and stable / motivic homotopy theory, and also their relations to algebraic K-theory, number theory and representation theory. 
 
-I am informally mentored by Prof. Paul Selick and advised by Prof. Nick Rozenblyum on a thesis project on Formal Moduli Problems. 
+I am informally mentored by Prof. [Paul Selick](https://www.math.toronto.edu/selick/) and advised by Prof. [Nick Rozenblyum](https://www.math.toronto.edu/nick/) on a thesis project on Formal Moduli Problems. 
 
 Aside from Math, I like classical music. Pieces that I particularly like listening to are Bach's Goldberg Variations, Keyboard Partita No. 2 and French Suite No. 3. I also enjoy learning different languages. I am learning German and Yiddish, but French is definitely another language I should learn (as an Algebraic Geometer!) 
