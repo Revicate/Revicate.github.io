@@ -1,6 +1,6 @@
 ---
 title: "Posts by Tag"
-permalink: /tags/
-layout: tags
-author_profile: true
+permalink: /notes/
 ---
+
+Notes will be uploaded shortly. (note: shortness is relative)
