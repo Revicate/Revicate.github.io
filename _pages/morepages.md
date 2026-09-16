@@ -1,6 +1,7 @@
 ---
 title: "More Pages"
 permalink: /more/
+author_profile: true
 ---
 
 I am a fan of the following blogs: 
