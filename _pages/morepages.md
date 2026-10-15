@@ -11,6 +11,6 @@ I am a fan of the following blogs:
 
 Check out my friends' websites! 
 - [Baining Zhang](https://bzhangbp.student.ust.hk//)
-- Eaton Liu 
+- Eaton Liu (Link upon request :) ) 
 
 
