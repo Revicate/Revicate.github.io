@@ -1,5 +1,5 @@
 ---
-title: "Notes"
+title: "Notes / Writings"
 permalink: /notes/
 author_profile: true
 ---
