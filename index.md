@@ -11,3 +11,5 @@ Hi! I am a fourth year mathematics student at University of Toronto. My interest
 I am informally mentored by Prof. [Paul Selick](https://www.math.toronto.edu/selick/) and advised by Prof. [Nick Rozenblyum](https://www.math.toronto.edu/nick/) on a thesis project on Formal Moduli Problems. 
 
 Aside from Math, I like classical music. Pieces that I particularly like listening to are Bach's Goldberg Variations, Keyboard Partita No. 2 and French Suite No. 3. I also enjoy learning different languages. I am learning German and Yiddish, but French is definitely another language I should learn (as an Algebraic Geometer!) 
+
+Currently reading: [Chromatic Homotopy Theory](https://ncatlab.org/nlab/files/LurieChromaticHomotopyTheory.pdf)
